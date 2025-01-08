@@ -2,7 +2,7 @@
 Qualys hotfixes. 
 
 
-# Informaiton:
+# Information:
 - Vulnerability remediation.
 - Known problems to fixes applied.
 - Recommendation.

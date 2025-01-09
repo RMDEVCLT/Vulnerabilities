@@ -9,7 +9,7 @@ Upgrade .NET CORE to a supported version. Once you confirm with the developer th
 2. If you need to develop, install the Hosting Bundle first and then your SDK. (Must be done in this order)
 
 **Additional information:**
-- Versions 2, 3, 5, 6, 7 End Of Life as of 12/2024
+- Versions 2, 3, 5, 6, 7 are End Of Life as of 12/2024
 - Version 8.x Supported 2024-2025
 
 **Example:**

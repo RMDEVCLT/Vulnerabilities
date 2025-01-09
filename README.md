@@ -4,5 +4,5 @@ Qualys hotfixes.
 
 # Information:
 - Vulnerability remediation.
-- Known problems to fixes applied.
+- Known problems and fixes.
 - Recommendation.
